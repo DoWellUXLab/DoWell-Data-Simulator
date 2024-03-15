@@ -1,9 +1,9 @@
-## **DoWell Random Table**
+## **DoWell Data Simulator**
 
-Welcome to the documentation for the DoWell Random Table API. This API service provides access to a vast database containing up to 10 million numeric data points, each consisting of 8-digit numbers. The primary purpose of this API is to offer users the ability to retrieve and utilize large datasets for various testing purposes.
+Welcome to the documentation for the DoWell Data Simulator API. This API service provides access to a vast database containing up to 10 million numeric data points, each consisting of 8-digit numbers. The primary purpose of this API is to offer users the ability to retrieve and utilize large datasets for various testing purposes.
 
 ### **Introduction:**
-The DoWell Random Table API offers developers a convenient and efficient means of accessing randomized numeric data for testing and analysis. Whether you're a software engineer, data scientist, or quality assurance professional, our API provides the necessary tools to access and manipulate vast datasets with ease.
+The DoWell Data Simulator API offers developers a convenient and efficient means of accessing randomized numeric data for testing and analysis. Whether you're a software engineer, data scientist, or quality assurance professional, our API provides the necessary tools to access and manipulate vast datasets with ease.
 
 ### **Key Features:**
 - Access to up to 10 million numeric data points.
@@ -13,7 +13,7 @@ The DoWell Random Table API offers developers a convenient and efficient means o
 - Simple integration into existing applications and workflows.
 
 ### **Getting Started:**
-To begin using the DoWell Random Table API, you will need an API key, which can be obtained by registering for an account on our [platform](https://ll05-ai-dowell.github.io/100105-DowellApiKeySystem/). Once you have your API key, you can start making requests to retrieve data from our extensive database.
+To begin using the DoWell Data Simulator API, you will need an API key, which can be obtained by registering for an account on our [platform](https://ll05-ai-dowell.github.io/100105-DowellApiKeySystem/). Once you have your API key, you can start making requests to retrieve data from our extensive database.
 
 ### **Authentication:**
 Authentication is required for accessing the API endpoints. You will need to include your API key in the request headers for authentication purposes.
